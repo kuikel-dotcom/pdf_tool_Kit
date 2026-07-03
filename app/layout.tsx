@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"PDF Toolkit",description:"Private browser-based PDF and image tools"}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}

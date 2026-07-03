@@ -1,0 +1,1 @@
+import Toolkit from "./toolkit"; export default function Page(){return <main><header><b>PDF Toolkit</b><span>Private file conversion in your browser</span></header><Toolkit/></main>}

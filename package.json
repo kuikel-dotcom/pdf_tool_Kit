@@ -1,0 +1,1 @@
+{"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","jszip":"^3.10.1","next":"latest","pdf-lib":"^1.17.1","pdfjs-dist":"^4.10.38","react":"latest","react-dom":"latest","typescript":"latest"},"devDependencies":{}}
